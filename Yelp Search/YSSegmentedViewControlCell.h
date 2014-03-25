@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface YSSegmentedViewControlCell : UISegmentedControl
+@interface YSSegmentedViewControlCell : UITableViewCell
+@property (weak, nonatomic) IBOutlet UISegmentedControl *segmentedViewControl;
 
+-(void)setSelectedIndex:(NSInteger)index;
 @end

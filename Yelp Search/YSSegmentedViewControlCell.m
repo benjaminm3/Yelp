@@ -18,6 +18,10 @@
     }
     return self;
 }
+-(void)setSelectedIndex:(NSInteger)index
+{
+    [self.segmentedViewControl setSelectedSegmentIndex:index];
+}
 
 /*
 // Only override drawRect: if you perform custom drawing.

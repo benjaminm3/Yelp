@@ -7,7 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "YSFilterViewController.h"
+#import "YSRestaurantViewCell.h"
+#import "YSRestaurant.h"
+#import "YelpClient.h"
 
-@interface YSYelpSearchViewController : UIViewController
+#import "AFNetworking.h"
 
+
+@interface YSYelpSearchViewController : UIViewController <UITableViewDelegate, UITableViewDataSource, UISearchBarDelegate>
 @end

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface YSFilterViewController : UIViewController
+#import "YSSegmentedViewControlCell.h"
+@interface YSFilterViewController : UIViewController <UITableViewDelegate, UITableViewDataSource>
 
 @end

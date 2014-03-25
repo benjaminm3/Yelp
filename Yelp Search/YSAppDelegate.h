@@ -7,6 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "YSYelpSearchViewController.h"
+
 
 @interface YSAppDelegate : UIResponder <UIApplicationDelegate>
 

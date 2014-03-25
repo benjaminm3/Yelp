@@ -7,7 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "YSRestaurant.h"
+#import "UIImageView+AFNetworking.h"
 
 @interface YSRestaurantViewCell : UITableViewCell
 
+
+- (void)setRestaurant:(YSRestaurant*)restaurant;
+- (UILabel*)getRestaurantNameLabel;
 @end
