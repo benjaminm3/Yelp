@@ -15,5 +15,5 @@
 #import "AFNetworking.h"
 
 
-@interface YSYelpSearchViewController : UIViewController <UITableViewDelegate, UITableViewDataSource, UISearchBarDelegate>
+@interface YSYelpSearchViewController : UIViewController <UITableViewDelegate, UITableViewDataSource, UISearchBarDelegate, YSFilterViewDelegate>
 @end

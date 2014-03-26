@@ -8,6 +8,13 @@
 
 #import <UIKit/UIKit.h>
 #import "YSSegmentedViewControlCell.h"
+
+@protocol YSFilterViewDelegate <NSObject>
+
+-(void)searchWithDictionary:(NSMutableDictionary *)data;
+
+@end
 @interface YSFilterViewController : UIViewController <UITableViewDelegate, UITableViewDataSource>
+@property (nonatomic, assign) id<YSFilterViewDelegate> delegate;
 
 @end

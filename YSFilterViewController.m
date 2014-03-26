@@ -205,10 +205,19 @@
 }
 
 - (void)save {
-    // Save data
-    // Pass back
+    NSMutableDictionary *filters = [[NSMutableDictionary alloc] init];
+    [filters setValue:[NSNumber numberWithInt:self.sortBySelection] forKey:@"sort"];
+    if ([self.delegate respondsToSelector:@selector(searchWithDictionary:)]) {
+    [self.delegate searchWithDictionary:filters];
+    }
     [self dismissViewControllerAnimated:YES completion:^{}];
     return;
+}
+
+-(void)searchWithDictionary:(NSMutableDictionary *)data {
+    if ([self.delegate respondsToSelector:@selector(searchWithDictionary:)]) {
+        [self.delegate searchWithDictionary:data];
+    }
 }
 
 @end

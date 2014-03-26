@@ -20,6 +20,7 @@ NSString * const kYelpTokenSecret = @"mqtKIxMIR4iBtBPZCmCLEb-Dz3Y";
 @property (nonatomic, strong) YelpClient *client;
 @property (strong, nonatomic) UISearchBar *searchBar;
 @property (strong, nonatomic) NSMutableArray *arrayOfRestaurants;
+@property (strong, nonatomic) NSString *searchTerm;
 @end
 
 @implementation YSYelpSearchViewController
@@ -114,11 +115,11 @@ NSString * const kYelpTokenSecret = @"mqtKIxMIR4iBtBPZCmCLEb-Dz3Y";
     return YES;
 }
 - (void)filter {
-    [self.searchBar resignFirstResponder];
+ //   [self.searchBar resignFirstResponder];
     NSString *className = NSStringFromClass([YSFilterViewController class]);
     YSFilterViewController *filterViewController = [[YSFilterViewController alloc] initWithNibName:className bundle:nil];
+    filterViewController.delegate = self;
     [self presentViewController:filterViewController animated:YES completion:^{}];
-    return;
 }
 
 
@@ -129,8 +130,6 @@ NSString * const kYelpTokenSecret = @"mqtKIxMIR4iBtBPZCmCLEb-Dz3Y";
     if(![restaurant isEqual:[NSNull null]]) {
       [cell setRestaurant:restaurant];
     }
-    
-//    [self.restaurantTableView reloadData];
     return cell;
 }
 
@@ -187,6 +186,34 @@ NSString * const kYelpTokenSecret = @"mqtKIxMIR4iBtBPZCmCLEb-Dz3Y";
     }];
     
 }
+-(void)searchWithDictionary:(NSMutableDictionary *)dict {
+    //[dictionary setValue:self.searchTerm forKey:@"term"];
+    UITextField *searchBarTextField;
+    for (UIView *subView in self.searchBar.subviews){
+        for (UIView *secondLeveSubView in subView.subviews){
+            if ([secondLeveSubView isKindOfClass:[UITextField class]]) {
+                searchBarTextField = (UITextField *)secondLeveSubView;
+                break;
+            }
+        }
+    }
+    
 
+    NSMutableDictionary *dictionary = [[NSMutableDictionary alloc] init];
+
+    [dictionary setObject:searchBarTextField.text forKey:@"term"];
+    [dictionary addEntriesFromDictionary:dict];
+    [dictionary setValue:@"san francisco" forKey:@"location"];
+    
+    [self.client searchWithDictionary:dictionary success:^(AFHTTPRequestOperation *operation, id response) {
+        self.arrayOfRestaurants = [[NSMutableArray alloc] init];
+        for (NSDictionary *restaurant in response[@"businesses"]) {
+            [self.arrayOfRestaurants addObject:[[YSRestaurant alloc] initWithRestaurantData:restaurant]];
+        }
+        [self.restaurantTableView reloadData];
+    } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+        NSLog(@"error: %@", [error description]);
+    }];
+}
 
 @end
