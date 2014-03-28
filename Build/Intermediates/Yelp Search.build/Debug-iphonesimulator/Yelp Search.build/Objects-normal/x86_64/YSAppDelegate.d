@@ -6,4 +6,4 @@ dependencies: \
   /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSSegmentedViewControlCell.h \
   /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSRestaurantViewCell.h \
   /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSRestaurant.h \
-  /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/../../test/Yelp/Yelp/YelpClient.h
+  /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YelpClient.h

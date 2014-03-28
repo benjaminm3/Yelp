@@ -21,7 +21,6 @@
 		4797521C18DE458E00722317 /* Yelp_SearchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4797521B18DE458E00722317 /* Yelp_SearchTests.m */; };
 		4797522A18DE4E0800722317 /* YSYelpSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4797522818DE4E0800722317 /* YSYelpSearchViewController.m */; };
 		4797522B18DE4E0800722317 /* YSYelpSearchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4797522918DE4E0800722317 /* YSYelpSearchViewController.xib */; };
-		4797522E18DFAECE00722317 /* YelpClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 4797522D18DFAECE00722317 /* YelpClient.m */; };
 		4797523118DFB2C200722317 /* YSRestaurant.m in Sources */ = {isa = PBXBuildFile; fileRef = 4797523018DFB2C200722317 /* YSRestaurant.m */; };
 		4797523518DFB8C400722317 /* YSFilterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4797523318DFB8C400722317 /* YSFilterViewController.m */; };
 		4797523618DFB8C400722317 /* YSFilterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4797523418DFB8C400722317 /* YSFilterViewController.xib */; };
@@ -29,6 +28,7 @@
 		4797523D18DFCB8600722317 /* YSRestaurantViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4797523B18DFCB8600722317 /* YSRestaurantViewCell.xib */; };
 		4797524018E0C02D00722317 /* YSSegmentedViewControlCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4797523F18E0C02D00722317 /* YSSegmentedViewControlCell.m */; };
 		4797524218E0C04700722317 /* YSSegmentedViewControlCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4797524118E0C04700722317 /* YSSegmentedViewControlCell.xib */; };
+		47E6AF1818E61C8600DD0DEA /* YelpClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 47E6AF1618E61C8600DD0DEA /* YelpClient.m */; };
 		FA54D2D8D4FC4914A2C7E9CF /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B7846722F56F4602B8FEE548 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -62,8 +62,6 @@
 		4797522718DE4E0800722317 /* YSYelpSearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YSYelpSearchViewController.h; sourceTree = "<group>"; };
 		4797522818DE4E0800722317 /* YSYelpSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YSYelpSearchViewController.m; sourceTree = "<group>"; };
 		4797522918DE4E0800722317 /* YSYelpSearchViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = YSYelpSearchViewController.xib; sourceTree = "<group>"; };
-		4797522C18DFAECE00722317 /* YelpClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YelpClient.h; path = ../../test/Yelp/Yelp/YelpClient.h; sourceTree = "<group>"; };
-		4797522D18DFAECE00722317 /* YelpClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YelpClient.m; path = ../../test/Yelp/Yelp/YelpClient.m; sourceTree = "<group>"; };
 		4797522F18DFB2C200722317 /* YSRestaurant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YSRestaurant.h; sourceTree = "<group>"; };
 		4797523018DFB2C200722317 /* YSRestaurant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YSRestaurant.m; sourceTree = "<group>"; };
 		4797523218DFB8C400722317 /* YSFilterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YSFilterViewController.h; path = ../YSFilterViewController.h; sourceTree = "<group>"; };
@@ -75,6 +73,8 @@
 		4797523E18E0C02D00722317 /* YSSegmentedViewControlCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YSSegmentedViewControlCell.h; sourceTree = "<group>"; };
 		4797523F18E0C02D00722317 /* YSSegmentedViewControlCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YSSegmentedViewControlCell.m; sourceTree = "<group>"; };
 		4797524118E0C04700722317 /* YSSegmentedViewControlCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = YSSegmentedViewControlCell.xib; sourceTree = "<group>"; };
+		47E6AF1618E61C8600DD0DEA /* YelpClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YelpClient.m; sourceTree = "<group>"; };
+		47E6AF1718E61C8600DD0DEA /* YelpClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YelpClient.h; sourceTree = "<group>"; };
 		71B0A612DA5A4503A2B07784 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 		B7846722F56F4602B8FEE548 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -139,11 +139,11 @@
 		479751FC18DE458E00722317 /* Yelp Search */ = {
 			isa = PBXGroup;
 			children = (
-				4797522C18DFAECE00722317 /* YelpClient.h */,
+				47E6AF1618E61C8600DD0DEA /* YelpClient.m */,
+				47E6AF1718E61C8600DD0DEA /* YelpClient.h */,
 				4797523218DFB8C400722317 /* YSFilterViewController.h */,
 				4797523318DFB8C400722317 /* YSFilterViewController.m */,
 				4797523418DFB8C400722317 /* YSFilterViewController.xib */,
-				4797522D18DFAECE00722317 /* YelpClient.m */,
 				4797520518DE458E00722317 /* YSAppDelegate.h */,
 				4797520618DE458E00722317 /* YSAppDelegate.m */,
 				4797520818DE458E00722317 /* Images.xcassets */,
@@ -327,8 +327,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47E6AF1818E61C8600DD0DEA /* YelpClient.m in Sources */,
 				4797523518DFB8C400722317 /* YSFilterViewController.m in Sources */,
-				4797522E18DFAECE00722317 /* YelpClient.m in Sources */,
 				4797520718DE458E00722317 /* YSAppDelegate.m in Sources */,
 				4797524018E0C02D00722317 /* YSSegmentedViewControlCell.m in Sources */,
 				4797523118DFB2C200722317 /* YSRestaurant.m in Sources */,
