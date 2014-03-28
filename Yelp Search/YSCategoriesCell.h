@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface YSCategoriesCell : UITableViewCell
+@property (weak, nonatomic) IBOutlet UILabel *textLabel;
 
 @end

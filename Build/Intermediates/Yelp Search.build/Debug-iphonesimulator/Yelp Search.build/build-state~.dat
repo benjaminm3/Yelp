@@ -1,0 +1,368 @@
+TYelp Search
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/PrecompiledHeaders/Yelp\ Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp\ Search-Prefix.pch.pch Yelp\ Search/Yelp\ Search-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSAppDelegate.o /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/main.o /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSYelpSearchViewController.o /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSYelpSearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Yelp\ Search normal i386
+cCopyStringsFile /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/en.lproj/InfoPlist.strings Yelp\ Search/en.lproj/InfoPlist.strings
+cCompileXIB /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSYelpSearchViewController.xib
+cCompileAssetCatalog /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/Images.xcassets
+cProcessInfoPlistFile /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Info.plist /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/Yelp\ Search-Info.plist
+cGenerateDSYMFile /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app.dSYM /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Yelp\ Search
+cTouch /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531EB08000000000000003B4
+t1394520192
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EB085000000000000019E
+t1394520197
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531EB0860000000000446820
+t1394520198
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531EB087000000000088D8C0
+t1394520199
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531EB08D0000000001F1DE10
+t1394520205
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EB0A10000000000000ADC
+t1394520225
+s2780
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/PrecompiledHeaders/Yelp Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp Search-Prefix.pch.pch
+t1395529425
+s116144
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/YSAppDelegate.o
+t1395529425
+s64036
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/YSYelpSearchViewController.o
+t1395529425
+s52472
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/Yelp Search.LinkFileList
+c00000000532E16D000000000000001E1
+t1395529424
+s481
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/main.o
+t1395529425
+s3560
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/assetcatalog_dependencies.txt
+t1395529426
+s408
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/assetcatalog_generated_info.plist
+t1395529426
+s525
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app
+t1395529426
+s306
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app.dSYM
+t2
+s0
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/Info.plist
+t1395529426
+s991
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/PkgInfo
+t1395529426
+s8
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/YSYelpSearchViewController.nib
+t1395529426
+s867
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/Yelp Search
+t1395529425
+s23080
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/en.lproj/InfoPlist.strings
+t1395529425
+s42
+
+N/Users/benjaminchang/Development/Yelp Search/Yelp Search/Images.xcassets
+c00000000532E0E0E0000000000000088
+t1395527182
+s136
+
+N/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSAppDelegate.m
+c00000000532E0E0E0000000000000890
+t1395527182
+s2192
+
+N/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSYelpSearchViewController.m
+c00000000532E16D000000000000006D2
+t1395529424
+s1746
+
+N/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSYelpSearchViewController.xib
+c00000000532E16880000000000000555
+t1395529352
+s1365
+
+N/Users/benjaminchang/Development/Yelp Search/Yelp Search/Yelp Search-Info.plist
+c00000000532E0E0E0000000000000491
+t1395527182
+s1169
+
+N/Users/benjaminchang/Development/Yelp Search/Yelp Search/Yelp Search-Prefix.pch
+c00000000532E0E0E0000000000000158
+t1395527182
+s344
+
+N/Users/benjaminchang/Development/Yelp Search/Yelp Search/en.lproj/InfoPlist.strings
+c00000000532E0E0E000000000000002D
+t1395527182
+s45
+
+N/Users/benjaminchang/Development/Yelp Search/Yelp Search/main.m
+c00000000532E0E0E000000000000015F
+t1395527182
+s351
+
+CBuild AST from /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSAppDelegate.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSYelpSearchViewController.m
+r0
+
+CBuild AST from /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies79e65d504edeb841^892466504edeb841^---0#1#1#--18"Check dependencies36"1A752664-A095-41B2-9049-B044EBAE4ADA-
+
+CCompileAssetCatalog /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/Images.xcassets
+s417222225.542244
+e417222226.198635
+r1
+xCompileAssetCatalog
+x/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app
+x/Users/benjaminchang/Development/Yelp Search/Yelp Search/Images.xcassets
+o2014-03-22 16:03:46.111 IBCocoaTouchImageCatalogTool[25256:303] CFPreferences: user home directory at file:///Users/benjaminchang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/LaunchImage-700-568h@2x.png
+o/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/Assets.car
+o/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Yelp\ Search.app Yelp\ Search/Images.xcassets102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Yelp\ Search.app Yelp\ Search/Images.xcassetse4dc8a514edeb841^9e5c33524edeb841^-668"2014-03-22 16:03:46.111 IBCocoaTouchImageCatalogTool[25256:303] CFPreferences: user home directory at file:///Users/benjaminchang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/LaunchImage-700-568h@2x.png/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/Assets.car/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@84"file:///Users/benjaminchang/Development/Yelp%20Search/Yelp%20Search/Images.xcassets/0000000000000000^1214"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Yelp\ Search.app Yelp\ Search/Images.xcassets    cd "/Users/benjaminchang/Development/Yelp Search"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/Images.xcassets36"2FCD38DB-1EBC-4DE4-8197-081DF9AC8B32-
+b5C4303D6-9799-4981-A4BE-FEDB895032B7
+
+CCompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSAppDelegate.o /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417222225.242793
+e417222225.343341
+r1
+xCompileC
+xBuild/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/YSAppDelegate.o
+x/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSAppDelegate.m
+d/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/benjaminchang/Development/Yelp Search/Yelp Search/YSAppDelegate.m221"CompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSAppDelegate.o Yelp\ Search/YSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler93393e514edeb841^2ee657514edeb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/benjaminchang/Development/Yelp%20Search/Yelp%20Search/YSAppDelegate.m0000000000000000^3910"CompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSAppDelegate.o Yelp\ Search/YSAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Yelp Search"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-generated-files.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-own-target-headers.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-project-headers.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/DerivedSources -F/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator -include /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/PrecompiledHeaders/Yelp\ Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp\ Search-Prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSAppDelegate.d --serialize-diagnostics /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSAppDelegate.dia -c /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSAppDelegate.m -o /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSAppDelegate.o36"BD7C0A5F-2500-4C73-89E9-4F6021F4BBA3-
+b5C4303D6-9799-4981-A4BE-FEDB895032B7
+
+CCompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSYelpSearchViewController.o /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSYelpSearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417222225.243211
+e417222225.351034
+r1
+xCompileC
+xBuild/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/YSYelpSearchViewController.o
+x/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSYelpSearchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSYelpSearchViewController.m
+d/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSYelpSearchViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/benjaminchang/Development/Yelp Search/Yelp Search/YSYelpSearchViewController.m247"CompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSYelpSearchViewController.o Yelp\ Search/YSYelpSearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6503e514edeb841^11df59514edeb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/benjaminchang/Development/Yelp%20Search/Yelp%20Search/YSYelpSearchViewController.m0000000000000000^3988"CompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSYelpSearchViewController.o Yelp\ Search/YSYelpSearchViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Yelp Search"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-generated-files.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-own-target-headers.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-project-headers.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/DerivedSources -F/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator -include /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/PrecompiledHeaders/Yelp\ Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp\ Search-Prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSYelpSearchViewController.d --serialize-diagnostics /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSYelpSearchViewController.dia -c /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSYelpSearchViewController.m -o /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/YSYelpSearchViewController.o36"1F5960B5-E931-43E2-876E-8E94BC8D57EE-
+b5C4303D6-9799-4981-A4BE-FEDB895032B7
+
+CCompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/main.o /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417222225.242972
+e417222225.342159
+r1
+xCompileC
+xBuild/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/main.o
+x/Users/benjaminchang/Development/Yelp Search/Yelp Search/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Yelp Search/Yelp Search/main.m
+d/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/benjaminchang/Development/Yelp Search/Yelp Search/main.m203"CompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/main.o Yelp\ Search/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc7483e514edeb841^b79857514edeb841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/benjaminchang/Development/Yelp%20Search/Yelp%20Search/main.m0000000000000000^3856"CompileC Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/main.o Yelp\ Search/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Yelp Search"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-generated-files.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-own-target-headers.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-project-headers.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/DerivedSources -F/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator -include /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/PrecompiledHeaders/Yelp\ Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp\ Search-Prefix.pch -MMD -MT dependencies -MF /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/main.dia -c /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/main.m -o /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/main.o36"DC1B5B2B-E3D0-4A4B-A23C-708B98D5EE05-
+b5C4303D6-9799-4981-A4BE-FEDB895032B7
+
+CCompileXIB /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSYelpSearchViewController.xib
+s417222225.541858
+e417222226.191446
+r1
+xCompileXIB
+x/Users/benjaminchang/Development/Yelp Search/Yelp Search/YSYelpSearchViewController.xib
+o2014-03-22 16:03:46.150 Interface Builder Cocoa Touch Tool[25254:303] CFPreferences: user home directory at file:///Users/benjaminchang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compiling /Users/benjaminchang/Development/Yelp Search/Yelp Search/YSYelpSearchViewController.xib54"CompileXIB Yelp\ Search/YSYelpSearchViewController.xibc2c18a514edeb841^2e5733524edeb841^-238"2014-03-22 16:03:46.150 Interface Builder Cocoa Touch Tool[25254:303] CFPreferences: user home directory at file:///Users/benjaminchang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@98"file:///Users/benjaminchang/Development/Yelp%20Search/Yelp%20Search/YSYelpSearchViewController.xib0000000000000000^830"CompileXIB Yelp\ Search/YSYelpSearchViewController.xib    cd "/Users/benjaminchang/Development/Yelp Search"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/YSYelpSearchViewController.nib /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YSYelpSearchViewController.xib36"B6D0AA44-5174-49BD-A5AD-1907A2D6059F-
+b5C4303D6-9799-4981-A4BE-FEDB895032B7
+
+CCompileXIB /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/YelpSearchViewController.xib
+r0
+
+CCopyStringsFile /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/en.lproj/InfoPlist.strings Yelp\ Search/en.lproj/InfoPlist.strings
+s417222225.541671
+e417222225.542554
+r1
+xCopyStringsFile
+x/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/en.lproj/InfoPlist.strings
+xYelp Search/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy Yelp Search/en.lproj/InfoPlist.strings136"CopyStringsFile Build/Products/Debug-iphonesimulator/Yelp\ Search.app/en.lproj/InfoPlist.strings Yelp\ Search/en.lproj/InfoPlist.stringsccb78a514edeb841^43e68a514edeb841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/benjaminchang/Development/Yelp%20Search/Yelp%20Search/en.lproj/InfoPlist.strings0000000000000000^628"CopyStringsFile Build/Products/Debug-iphonesimulator/Yelp\ Search.app/en.lproj/InfoPlist.strings Yelp\ Search/en.lproj/InfoPlist.strings    cd "/Users/benjaminchang/Development/Yelp Search"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/en.lproj -- Yelp\ Search/en.lproj/InfoPlist.strings36"430AE6E6-1BE1-406C-A4A8-CA2E8BDDEC6C-
+b5C4303D6-9799-4981-A4BE-FEDB895032B7
+
+CGenerateDSYMFile /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app.dSYM /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Yelp\ Search
+s417222226.201737
+e417222226.228795
+r1
+xGenerateDSYMFile
+x/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app.dSYM
+x/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/Yelp Search
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Generate /Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app.dSYM142"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Yelp\ Search.app.dSYM Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Yelp\ Search31b333524edeb841^863a40524edeb841^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/benjaminchang/Development/Yelp%20Search/Build/Products/Debug-iphonesimulator/Yelp%20Search.app.dSYM0034c832deffdf42^713"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Yelp\ Search.app.dSYM Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Yelp\ Search    cd "/Users/benjaminchang/Development/Yelp Search"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Yelp\ Search -o /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app.dSYM36"A499C553-4047-4E20-B04D-186393620D8E-
+b5C4303D6-9799-4981-A4BE-FEDB895032B7
+
+CLd /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Yelp\ Search normal i386
+s417222225.351603
+e417222225.540850
+r1
+xLd
+x/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/Yelp Search
+xnormal
+xi386
+d/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/Yelp Search.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/YSAppDelegate.o
+d/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/main.o
+d/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Yelp Search.build/Debug-iphonesimulator/Yelp Search.build/Objects-normal/i386/YSYelpSearchViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Link /Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/Yelp Search81"Ld Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Yelp\ Search normal i3865e0f5a514edeb841^0c778a514edeb841^---0#0#1#--1482"Ld Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Yelp\ Search normal i386    cd "/Users/benjaminchang/Development/Yelp Search"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator -F/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator -filelist /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/Yelp\ Search.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Objects-normal/i386/Yelp\ Search_dependency_info.dat -o /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Yelp\ Search36"4D4C7F88-FBDD-481B-BE29-651E70B9F262-
+b5C4303D6-9799-4981-A4BE-FEDB895032B7
+
+CProcessInfoPlistFile /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Info.plist /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/Yelp\ Search-Info.plist
+s417222226.199152
+e417222226.201238
+r1
+xProcessInfoPlistFile
+x/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/Yelp Search.app/Info.plist
+x/Users/benjaminchang/Development/Yelp Search/Yelp Search/Yelp Search-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Process /Users/benjaminchang/Development/Yelp Search/Yelp Search/Yelp Search-Info.plist122"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Info.plist Yelp\ Search/Yelp\ Search-Info.plist070733524edeb841^2f8533524edeb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/benjaminchang/Development/Yelp%20Search/Yelp%20Search/Yelp%20Search-Info.plist0000000000000000^963"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Info.plist Yelp\ Search/Yelp\ Search-Info.plist    cd "/Users/benjaminchang/Development/Yelp Search"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/Yelp\ Search-Info.plist -genpkginfo /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/assetcatalog_generated_info.plist -o /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app/Info.plist36"059073B0-A949-427A-87B7-F1E6C968D383-
+b5C4303D6-9799-4981-A4BE-FEDB895032B7
+
+CProcessPCH /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/PrecompiledHeaders/Yelp\ Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp\ Search-Prefix.pch.pch Yelp\ Search/Yelp\ Search-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417222224.390422
+e417222225.242229
+r1
+xProcessPCH
+x/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/PrecompiledHeaders/Yelp Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp Search-Prefix.pch.pch
+xYelp Search/Yelp Search-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Yelp Search/Yelp Search/Yelp Search-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Yelp Search/Yelp Search-Prefix.pch231"ProcessPCH Build/Intermediates/PrecompiledHeaders/Yelp\ Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp\ Search-Prefix.pch.pch Yelp\ Search/Yelp\ Search-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler200c64504edeb841^29043e514edeb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/benjaminchang/Development/Yelp%20Search/Yelp%20Search/Yelp%20Search-Prefix.pch0000000000000000^3764"ProcessPCH Build/Intermediates/PrecompiledHeaders/Yelp\ Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp\ Search-Prefix.pch.pch Yelp\ Search/Yelp\ Search-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Yelp Search"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-generated-files.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-own-target-headers.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/Yelp\ Search-project-headers.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Yelp\ Search.build/Debug-iphonesimulator/Yelp\ Search.build/DerivedSources -F/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/PrecompiledHeaders/Yelp\ Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp\ Search-Prefix.pch.dia -MMD -MT dependencies -MF /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/PrecompiledHeaders/Yelp\ Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp\ Search-Prefix.pch.d -c /Users/benjaminchang/Development/Yelp\ Search/Yelp\ Search/Yelp\ Search-Prefix.pch -o /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/PrecompiledHeaders/Yelp\ Search-Prefix-ciphrzvntwmiozcavqocfzzavomy/Yelp\ Search-Prefix.pch.pch36"9C8B8F28-1430-4540-AC9F-2B8CC7B2A15A-
+b5C4303D6-9799-4981-A4BE-FEDB895032B7
+
+CProcessPCH /Users/benjaminchang/Library/Developer/Xcode/DerivedData/Yelp_Search-anrgdlpeuexhjjhhsguiqukfmmur/Index/PrecompiledHeaders/Yelp\ Search-Prefix-extcexsjuljefgehixmwekmudzja_ast/Yelp\ Search-Prefix.pch.pch Yelp\ Search/Yelp\ Search-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/Yelp\ Search.app
+r0
+

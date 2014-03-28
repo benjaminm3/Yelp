@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface YSSwitchCell : UITableViewCell
+@property (weak, nonatomic) IBOutlet UILabel *switchCellLabel;
+@property (weak, nonatomic) IBOutlet UISwitch *switchCellSwitch;
 
 @end

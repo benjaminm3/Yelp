@@ -1,0 +1,93 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/benjaminchang/Development/Yelp\ Search/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531EB08000000000000003B4
+t1394520192
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EB085000000000000019E
+t1394520197
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531EB0A10000000000000ADC
+t1394520225
+s2780
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+t1395619634
+s3120
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList
+c00000000532F7731000000000000008E
+t1395619633
+s142
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a
+c00000000532F7731000000000015C330
+t1395619633
+s1426224
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/libPods-BDBOAuth1Manager.a
+c00000000532F77310000000000029E98
+t1395619633
+s171672
+
+N/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/libPods.a
+t2
+s0
+
+N/Users/benjaminchang/Development/Yelp Search/Pods/Pods-dummy.m
+c00000000532F770F0000000000000070
+t1395619599
+s112
+
+CBuild AST from /Users/benjaminchang/Development/Yelp\ Search/Pods/Pods-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies82c7bbb1aedfb841^520cbcb1aedfb841^---0#1#1#--18"Check dependencies36"99E68F6F-AD9F-4150-91F9-C88C7B393C4F-
+
+CCompileC /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/benjaminchang/Development/Yelp\ Search/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s417312433.734979
+e417312434.139714
+r1
+xCompileC
+x/Users/benjaminchang/Development/Yelp Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+x/Users/benjaminchang/Development/Yelp Search/Pods/Pods-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/benjaminchang/Development/Yelp Search/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/benjaminchang/Development/Yelp Search/Pods/Pods-dummy.m232"CompileC /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd39bcb1aedfb841^cec523b2aedfb841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/benjaminchang/Development/Yelp%20Search/Pods/Pods-dummy.m0000000000000000^3920"CompileC /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/benjaminchang/Development/Yelp Search/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/benjaminchang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-generated-files.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-own-target-headers.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-all-target-headers.hmap -iquote /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-project-headers.hmap -I/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/include -I/Users/benjaminchang/Development/Yelp\ Search/Pods/Pods/Headers -I/Users/benjaminchang/Development/Yelp\ Search/Pods/Pods/Headers/AFNetworking -I/Users/benjaminchang/Development/Yelp\ Search/Pods/Pods/Headers/BDBOAuth1Manager -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator -isystem/Users/benjaminchang/Development/Yelp\ Search/Pods/Pods/Headers -isystem/Users/benjaminchang/Development/Yelp\ Search/Pods/Pods/Headers/AFNetworking -isystem/Users/benjaminchang/Development/Yelp\ Search/Pods/Pods/Headers/BDBOAuth1Manager -MMD -MT dependencies -MF /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.d --serialize-diagnostics /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.dia -c /Users/benjaminchang/Development/Yelp\ Search/Pods/Pods-dummy.m -o /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o36"59F8DC75-F986-4CFA-BE0F-3C070A3A576A-
+bFBC55AB8-E460-4A6E-8479-FBA71549C489
+
+CLibtool /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+s417312434.140215
+e417312434.178758
+r1
+xLibtool
+x/Users/benjaminchang/Development/Yelp Search/Build/Products/Debug-iphonesimulator/libPods.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Libtool /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/libPods.a normal i386112"Libtool /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/libPods.a normal i386ccf023b2aedfb841^dbc42db2aedfb841^---0#0#1#--1065"Libtool /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/libPods.a normal i386    cd "/Users/benjaminchang/Development/Yelp Search/Pods"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator -filelist /Users/benjaminchang/Development/Yelp\ Search/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -lPods-BDBOAuth1Manager -o /Users/benjaminchang/Development/Yelp\ Search/Build/Products/Debug-iphonesimulator/libPods.a36"4871C71E-FCA7-4E0E-89F9-3BC7F3DE38E4-
+bFBC55AB8-E460-4A6E-8479-FBA71549C489
+
